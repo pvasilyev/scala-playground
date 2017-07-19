@@ -1,3 +1,5 @@
+package com.github.pvasilyev.round1
+
 import org.scalatest._
 
 
