@@ -15,7 +15,8 @@ class Obj(n: Int) extends Ord {
 val o = new Obj(3)
 o < 5
 o < 2
-
+val b = new Obj(2)
+b > false
 
 class Date(y: Int, m: Int, d: Int) extends Ord {
   def year = y
